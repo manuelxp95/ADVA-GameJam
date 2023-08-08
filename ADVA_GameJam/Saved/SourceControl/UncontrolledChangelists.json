@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/Level/Example.umap"
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/Level/Example.umap",
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/Blueprints/BP_CannonBall.uasset",
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/E1/RGQ1Y2DFG0AOEVCN892GM0.uasset",
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/Blueprints/BP_Cannon.uasset",
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/BH/259A76DOYOPRH2LJZMTO8P.uasset",
+				"G:/UnityProjects/ADVA-GameJam/ADVA_GameJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LP/AGZ2X5HOQIRIVK1WHBWB48.uasset"
 			]
 		}
 	]
